@@ -1,6 +1,6 @@
 package final1;
 
-class LineaAzul extends Teleferico {
+public class LineaAzul extends Teleferico {
     @Override
     public void iniciarRecorrido() {
         System.out.println("Línea Azul iniciando recorrido.");
