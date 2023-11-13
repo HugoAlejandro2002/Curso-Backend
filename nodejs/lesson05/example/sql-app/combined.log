@@ -1,0 +1,5 @@
+info:[13/Nov/2023:13:17:27 -0400] ::1 - - [13/Nov/2023:17:17:27 +0000] "GET /users/1 HTTP/1.1" 404 28 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0"
+info:[13/Nov/2023:13:37:18 -0400] ::1 - - [13/Nov/2023:17:37:18 +0000] "GET /auth/login HTTP/1.1" 404 149 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0"
+info:[13/Nov/2023:13:38:24 -0400] ::1 - - [13/Nov/2023:17:38:24 +0000] "GET /users/1 HTTP/1.1" 404 28 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0"
+info:[13/Nov/2023:13:39:26 -0400] ::1 - - [13/Nov/2023:17:39:26 +0000] "GET /users/1 HTTP/1.1" 404 28 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0"
+info:[13/Nov/2023:13:41:42 -0400] ::ffff:127.0.0.1 - - [13/Nov/2023:17:41:42 +0000] "POST /users HTTP/1.1" 400 14 "-" "PostmanRuntime/7.35.0"
